@@ -1,6 +1,7 @@
 ### Env Variables
 
 Rename the `.env.example` file to `.env` and add the following
+Create a db called mydb in mongodb compass. (add users as default collection)
 
 ```
 NODE_ENV=development
@@ -36,5 +37,7 @@ npm run data:destroy
 
 ```
 # Run frontend (:3000) & backend (:5000)
+
+```
 npm run dev
 ```
