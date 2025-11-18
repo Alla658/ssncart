@@ -24,7 +24,8 @@ npm install
 
 ### Seed Database
 
-You can use the following commands to seed the database with some sample users and products as well as destroy all data
+You can use the following commands to seed the database with some sample users and products as well as destroy all data.
+Run seeder.js in server folder.
 
 ```
 # Import data
